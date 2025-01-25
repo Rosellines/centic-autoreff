@@ -11,7 +11,7 @@ This bot automates the process of creating accounts and using referral codes for
 ## Requirements
 
 - Node.js v18.20.6 LTS [Download](https://nodejs.org/dist/v18.20.6/node-v18.20.6-x64.msi).
-- Account Centic https://centic.io/quests/daily?refferalCode=eJwFwQERACAIBLBKyMOhcRD4DMZ3kxe6VAp1iuAMsj0S1s7qS445jdT9AQq3DME=
+- Register in here [centric](https://centic.io/quests/daily?refferalCode=eJwFwQERACAIBLBKyMOhcRD4DMZ3kxe6VAp1iuAMsj0S1s7qS445jdT9AQq3DME=)
 
 ## Installation
 
